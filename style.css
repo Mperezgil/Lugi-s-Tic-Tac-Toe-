@@ -151,3 +151,13 @@ video {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+@media only screen and (max-width: 480px) {
+	.board {
+		width: 19rem;
+	}
+
+	img {
+		width: 19rem;
+	}
+}
